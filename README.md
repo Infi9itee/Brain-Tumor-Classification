@@ -11,6 +11,9 @@
 ## Project Overview
 This project implements and compares multiple deep learning architectures for Brain Tumor classification. The goal is to accurately classify different types of brain tumors using computer vision techniques, comparing traditional CNN architectures with modern transfer learning approaches and hybrid models.
 
+## Model Architecture
+<img width="768" height="63" alt="hybrid_cnn_architecture" src="https://github.com/user-attachments/assets/5327d5f2-e48d-400c-8c26-c85233d7070f" />
+
 ## Dataset Information
 - **Dataset Name:** Brain Tumor MRI Images 44 Classes
 - **Source:** mrnotalent/braint
